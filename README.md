@@ -6,4 +6,11 @@ I will attend the University of California, Los Angeles to pursue a Bachelor's D
 
 ---
 <!--START_SECTION:waka-->
+```text
+Markdown     17 hrs 31 mins  █████████░░░░░░░░░░░░░░░░   36.10 % 
+Vue.js       16 hrs 35 mins  ████████▓░░░░░░░░░░░░░░░░   34.19 % 
+Python       11 hrs 2 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 % 
+JavaScript   2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Text         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
 <!--END_SECTION:waka-->
