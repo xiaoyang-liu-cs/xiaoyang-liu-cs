@@ -5,6 +5,7 @@ I am a full stack developer and an open-source enthusiast. Before starting colle
 I will attend the University of California, Los Angeles to pursue a Bachelor's Degree in Computer Science and explore my interests in Engineering, Entrepreneurship, and Philosophy.
 
 ---
+#### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 Markdown     17 hrs 31 mins  █████████░░░░░░░░░░░░░░░░   36.10 % 
