@@ -8,10 +8,10 @@ I will attend the University of California, Los Angeles to pursue a Bachelor's D
 #### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Vue.js       19 hrs 47 mins  ██████████▒░░░░░░░░░░░░░░   41.28 % 
-Markdown     17 hrs 59 mins  █████████▒░░░░░░░░░░░░░░░   37.51 % 
-Python       6 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-JavaScript   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Text         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Vue.js       23 hrs 5 mins   █████████████▓░░░░░░░░░░░   54.33 % 
+Markdown     16 hrs 4 mins   █████████▒░░░░░░░░░░░░░░░   37.83 % 
+Python       1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JavaScript   1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Sass         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
