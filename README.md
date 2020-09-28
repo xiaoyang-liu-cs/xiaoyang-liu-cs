@@ -4,10 +4,10 @@
 #### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Vue.js       10 hrs 46 mins  ████████▓░░░░░░░░░░░░░░░░   35.03 % 
-Markdown     9 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 % 
-Python       5 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.65 % 
-JavaScript   3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-HTML         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python       6 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   35.83 % 
+JavaScript   5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   28.96 % 
+Vue.js       4 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.37 % 
+JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+SCSS         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 <!--END_SECTION:waka-->
