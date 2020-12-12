@@ -1,10 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoyang-liu-cs&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" />
-
-#### 
----
-#### 
-
-
 <table width="800px">
 <tr>
 <td valign="top" width="50%">
