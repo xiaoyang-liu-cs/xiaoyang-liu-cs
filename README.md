@@ -1,9 +1,45 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoyang-liu-cs&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" />
+
+#### 
+---
+#### 
+
+
+<table width="800px">
+<tr>
+<td valign="top" width="50%">
+
+#### Random Facts
+
+- :books: **Personality**: INTJ-T - Turbulent Architects
+- :headphones: **Top Songs 2020**: [春夏秋冬 (Leslie Cheung)](https://www.youtube.com/watch?v=iU1mnIMlcZk), [合唱歌 (Juno Mak, Kay Tse)](https://www.youtube.com/watch?v=4NONzgBJZNs)
+- :video_game: **Game Collector**: 1k+ Games on Steam
+
+</td>
+
+<td valign="top" width="40%">
+  
 ![Xiaoyang Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyang-liu-cs&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiaoyang-liu-cs&count_bg=%2366CCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)](https://hits.seeyoufarm.com)
+</td>
 
----
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+#### Winter Break: Pause and Reflect
+
+- [ ] Review: JavaScript, React, Webpack, Data Structures
+- [ ] Learn: TypeScript, C++ STL, LeetCode
+- [ ] Read: Increment, Andreessen Horowitz, Stripe Press, YDNJS
+
+</td>
+
+<td valign="top" width="50%">
+
 #### Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 ```text
 C++          4 hrs 46 mins   █████████████▒░░░░░░░░░░░   53.39 % 
@@ -13,3 +49,8 @@ Vue.js       52 mins         ██▒░░░░░░░░░░░░░░
 Python       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 <!--END_SECTION:waka-->
+
+</td>
+</tr>
+
+</table>
