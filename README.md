@@ -1,14 +1,5 @@
 <table width="800px">
 <tr>
-<td valign="top" width="50%">
-
-#### Random Facts
-
-- :books: **Personality**: INTJ-T - Turbulent Architects
-- :headphones: **Top Songs 2020**: [春夏秋冬 (Leslie Cheung)](https://www.youtube.com/watch?v=iU1mnIMlcZk), [合唱歌 (Juno Mak, Kay Tse)](https://www.youtube.com/watch?v=4NONzgBJZNs)
-- :video_game: **Game Collector**: 1k+ Games on Steam
-
-</td>
 
 <td valign="top" width="40%">
   
@@ -19,15 +10,6 @@
 </tr>
 
 <tr>
-<td valign="top" width="50%">
-
-#### Winter Break: Pause and Reflect
-
-- [ ] Review: JavaScript, React, Webpack, Data Structures
-- [ ] Learn: TypeScript, C++ STL, LeetCode
-- [ ] Read: Increment, Andreessen Horowitz, Stripe Press, YDNJS
-
-</td>
 
 <td valign="top" width="50%">
 
