@@ -12,18 +12,8 @@
 <tr>
 
 <td valign="top" width="50%">
-
-#### Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-C++          5 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   39.92 % 
-JavaScript   2 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Markdown     2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Vue.js       1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-JSX          1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-```
-<!--END_SECTION:waka-->
+  
+![Xiaoyang Liu's GitHub Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaoyang_liu&layout=compact&title_color=a0a9af&bg_color=f6f8fa&custom_title=Weekly%20Development%20Breakdown&hide_border=true)
 
 </td>
 </tr>
