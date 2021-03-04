@@ -1,21 +1,7 @@
-<table width="800px">
-<tr>
+# Hey, I'm Xiaoyang Liu.
 
-<td valign="top" width="40%">
-  
+Software Engineer, Open Source Enthusiast, Digital Nomad
+
+I'm a software engineer and founding team member at a stealth-mode startup backed by Mozilla Builders Incubator in San Francisco and I will join a voice games startup backed by Y Combinator this summer as a software engineer intern. I’m a freshman majoring in Computer Science at UCLA Henry Samueli School of Engineering. I am interested in TypeScript, Deno, Rust, and WebAssembly.
+
 ![Xiaoyang Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyang-liu-cs&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top" width="50%">
-  
-![Xiaoyang Liu's GitHub Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaoyang_liu&layout=compact&title_color=a0a9af&bg_color=f6f8fa&custom_title=Weekly%20Development%20Breakdown&hide_border=true)
-
-</td>
-</tr>
-
-</table>
